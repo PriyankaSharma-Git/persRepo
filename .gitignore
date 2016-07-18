@@ -1,0 +1,22 @@
+#.gitignore
+*.class
+*.bak
+*.orig
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+
+# Intellij
+*.iml
+.idea
+target
+
+# Eclipse
+.project
+.settings
+.classpath
+.cache
+.metadata
